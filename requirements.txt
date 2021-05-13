@@ -1,0 +1,4 @@
+paddlepaddle
+paddlehub
+paddleX
+opencv-python
